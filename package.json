@@ -1,0 +1,33 @@
+{
+  "name": "web3-enhancer-essenceal",
+  "version": "1.0.0",
+  "description": "Improve Web3 functionalities with Essenceal, enhancing overall performance.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slobber-scarab/web3-enhancer-essenceal"
+  },
+  "author": "slobber-scarab",
+  "license": "MIT",
+  "dependencies": {
+    "essenceal-web3": "1.0.0",
+    "web3-enhancer-essenceal": "1.0.0",
+    "request": "1.0.0",
+    "solc": "1.0.0",
+    "mongoose": "1.0.0",
+    "pg": "1.0.0",
+    "react-dom": "1.0.0",
+    "web3": "1.0.0",
+    "axios": "1.0.0",
+    "commander": "1.0.0",
+    "socket.io": "1.0.0",
+    "node-sass": "1.0.0",
+    "react-redux": "1.0.0",
+    "validator": "1.0.0",
+    "webpack": "1.0.0",
+    "supertest": "1.0.0"
+  }
+}
